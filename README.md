@@ -1,2 +1,2 @@
-# python crash course
+# python crash course Chapter 2 Exercises
  
